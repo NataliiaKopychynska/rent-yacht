@@ -1,11 +1,11 @@
 {
-  "name": "luxury-yacht-09",
+  "name": "rent-yacht",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/luxury-yacht-09/",
+    "build": "vite build --base=/rent-yacht/",
     "preview": "vite preview"
   },
   "devDependencies": {
